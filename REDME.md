@@ -12,7 +12,7 @@ O programa permite informar dados do paciente, escolher o tipo de atendimento e 
 \- Relatório com pacientes atendidos, faturamento, descontos, média, maior e menor valor
 
 
-## Tecnologias utilizadas 
+
 Python
 
 ## Como executar
