@@ -11,7 +11,7 @@ O programa permite informar dados do paciente, escolher o tipo de atendimento e 
 \- Cálculo do valor final de cada atendimento  
 \- Relatório com pacientes atendidos, faturamento, descontos, média, maior e menor valor
 
-## Ferramentas
+## Tecnologias 
 
 - **Python**
 
