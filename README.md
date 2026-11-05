@@ -15,6 +15,10 @@ O programa permite informar dados do paciente, escolher o tipo de atendimento e 
 
 - **Python**
 
+- ## Aviso
+
+Este projeto é uma simulação para fins de estudo. Todos os dados usados são fictícios.
+
 ## Como executar
 1. Baixe o arquivo do projeto.  
 2. Abra o terminal na pasta onde o arquivo foi salvo.  
@@ -24,4 +28,10 @@ O programa permite informar dados do paciente, escolher o tipo de atendimento e 
 ## Autora
 
 Pamela Barbosa P Ramos
+
+## Melhorias futuras
+
+- Salvar os atendimentos em um arquivo
+- Adicionar mais tipos de atendimento
+- Criar uma interface gráfica
 
