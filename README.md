@@ -18,7 +18,7 @@ O programa permite informar dados do paciente, escolher o tipo de atendimento e 
 ## Como executar
 1. Baixe o arquivo do projeto.  
 2. Abra o terminal na pasta onde o arquivo foi salvo.  
-3. Execute o comando Python sistemacontroleclinica.py.  
+3. Execute o comando: `python sistemacontroleclinica.py`
 4. Siga as instruções exibidas na tela.
 
 ## Autora
